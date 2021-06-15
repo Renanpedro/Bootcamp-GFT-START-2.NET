@@ -1,0 +1,71 @@
+#### GIT INIT
+
+git init - para iniciar o repositorio
+
+git add -  Para adicionbar os arquivos na staged area
+
+git add NomedoArquivo
+git add * ou git add . - para adicionar todos os arquivos da WS na staged area
+
+git commit -m "mensagem" = Para comitar um arquivo
+mkdir - para criar uma pasta
+ls - para listar os arquivos dentro da pasta, igual dir do cmd
+ls - a = para listar os arquivos ocultos dentro da pasta
+cd .. - Para voltar uma pasta
+cd /pasta - para acessar a pasta
+
+$git status - mostrar o status dos arquivos
+
+
+
+$git config --list = Para trazer todas as informações do git como meu nome ou email
+
+$git config --global user.name "Renanpedro"
+
+$git config --global user.email "contato.renan.silva@outlook.com"
+
+
+
+UNTRACKED - Não rastreado pelo GIT
+
+STAGED - Area onde o arquivo aguarda para ser comitado
+
+UNMODIFIED - Arquivo que não sofreu alteração
+
+Modified - Arquivo que já sofreu alterações
+
+
+
+$mv NomedoArquivo.extensão  (./ signifnca no diretorio atual) ./pasta/pasta - para mover o arquivo de pasta
+
+
+
+PARA SUBIR O MEU REPOSITORIO LOCAL PARA O GIT HUB
+
+Criar um repositorio no git hub, pegar a url que irá gerar e dar o comando abaixo
+
+
+
+$Git remote add origin URL
+
+​	o origin é apenas uma string qualquer, pode ser utilizado qualquer nome
+
+​	origin é um apelido para a nossa url do git hub
+
+
+
+$git push origin master - Para subir os arquivos no git hub
+
+push = empurrar
+
+​	origin é o apelido utlizando no passo acima
+
+
+
+$git clone URL - para pegar os arquivos do git  e passar pra minha maquina.
+
+$git pull origin master - para puxar os arquivos do Github
+
+
+
+$git remote -v - Para ver os repositorios remotos que o projeto que vc baixou está, consegue saber onde ele esta apontado

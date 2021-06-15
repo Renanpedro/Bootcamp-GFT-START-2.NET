@@ -1,0 +1,37 @@
+
+
+#### INICIANDO COM .NET
+
+dotnet --version - Para ver a versão do Dotnet pelo CMD
+
+CLI - Command-line interface(Interface de linha de comando ILC)
+
+CLS - Limpar a tela
+
+
+
+#### Conhecendo a CLI do .NET
+
+dotnet --help = Para ver a documentação do dotnet no CMD
+
+dotnet --info - Trás todas as versões do dotnet instaladas na maquina
+
+
+
+#### Criando uma aplicação console
+
+dotnet new console -n 'NomedoProjeto' = Para iniciar um projeto console em dotnet
+
+cd DigitalInnovationOne - Para acessar a pasta do projeto criado
+
+explorer . -  Abre diretamente na pasta que voce esta
+
+code . = Vai abrir o conteúdo da pasta
+
+dotnet restore = para restaurar/baixa os pacotes e dependências do projeto
+
+dotnet build = Também limpa os pacotes, mas também já debuga a aplicação
+
+dotnet run = Para executar a aplicação
+
+cls - Para limpar a tela

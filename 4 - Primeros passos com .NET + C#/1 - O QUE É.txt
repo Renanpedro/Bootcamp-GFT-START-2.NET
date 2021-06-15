@@ -1,0 +1,71 @@
+### CONHECENDO O FRAMEWORK
+
+#### Passado, Presente e Futuro do .NET?
+
+Criado pela microsoft no ano 2000, com o nome de NEXT GENERATION WINDOWS SERVICES (NGSWS).                                                                             
+
+ASP.X extensão dos arquivos web forms do .NET
+
+
+
+#### O que é, como e onde usar o .NET?
+
+É uma infraestrutura para desenvolvimento de software criado pela microsoft.
+
+E uma aplicação .NET é desenvolvida para e roda em uma das seguintes implementações do .NET
+
+	- .NET CORE (Focar aqui .NET CORE com C#)
+	- NET FRAMEWROK
+	- MONO (XAMARIN)
+	- UNIVERSAL WINDOWS PLATAFORM (UWP)
+
+
+
+#### Como?
+
+Cada implementação inclui um ou mais .NET Runtimes (ambientes de execução)
+
+- .NET CORE: CoreCLR e CoreRT
+
+- .NET FRAMEWORK: CLR
+
+- MONO: Mono Runtime
+
+- UWP: .NET Native
+
+  
+
+  
+
+#### **Atualmente a Microsoft desenvolve e suporta 3 linguagens para .NET**
+
+C#, F# e VB
+
+
+
+#### **Onde?**
+
+DESKTOP : WPF, WINDOWS FORMES, UWP
+
+WEB: APS.NET
+
+CLOUD: AZURE
+
+MOBILE: XAMARIN
+
+GAMING: UNITY
+
+IoT: ARM32, ARM64
+
+AI: Ml.NET, .NET for e Apache Spark
+
+
+
+#### Quem usa o .NET?
+
+PetroBrás, CasasBahia, Saraiva, Unimed, Takeda, Marabraz, AACD, GOL, AZUL, ITAÚ, LINX, MAGALU (FRAMKEWOK ou CORE)
+
+StackOverflow desenvolvido com .NET FRAMEWORK
+
+ 
+

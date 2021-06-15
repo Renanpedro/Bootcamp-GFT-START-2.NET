@@ -1,0 +1,77 @@
+### O que é o C#?
+
+É uma linguagem criada pelo Andres Hejlsberg no final da década de 90 junto com o .NET no começo dos anos 2000.
+
+O C# é uma linguagem elegante, orientada a objeto e fortemente tipada.
+
+A sintaxe do C# é similar a do C,C++ ou Java.
+
+Suporta os conceitos de encapsulmento, herança e polimorfismo (OO).
+
+ 
+
+Os  programas C# são executados no .NET, que inclui:
+
+- CLR (COMOON LANGUAGE RUNTIME)
+- Conjunto unificado de bibliotecas de classes
+
+Atualmente o compilador do C# é o Roslyn
+
+
+
+### Como funciona o C#?
+
+O código-fonte escrito em C# é copilado em uma linguagem intermediária (IL)
+
+O código e os recursos de IL são armazenados no disco em um arquivo executável chamado ASSEMBLY, geralmente com uma extensão **.exe** ou **.ddl**.
+
+Quando o programa C# é executado, o ASSEMBLY é carregado no CLR
+
+Em seguida o CLR executará a compilação just in time (JIT) para converter o código IL em instruções de máquina nativas.
+
+
+
+O CLR também fornece outros serviços:
+
+- Garbage Collector - Coletor de lixo ele valida e verifica objetos de memorias que não estejam sendo utilizados parar liberar os espações de memoria afim da aplicação ficar mais leve.
+- Exception Handler - Recebe e controlar as exceções de erros da aplicação.
+- Resources Manager - Gerenciador de recursos.
+
+Além dos serviços de tempo de execução, o .NET também inclui uma extensa biblioteca com milhares de classes que fornece uma ampla variedade de funcionalidades úteis, desde entrada e saída de arquivos, manipulação de cadeias de caracteres, análise XML, etc.
+
+
+
+### Estrutura de programa:
+
+Os principias conceitos organizacionais em C# são:
+
+- Programas
+
+- Namespaces 
+
+- tipos
+
+- membros
+
+- Assemblies (DLL)
+
+  
+
+Programas C# consistem em um ou mais arquivos
+
+Os programas declaram tipos, que contêm membros e podem ser organizados em namespaces
+
+Classes e interfaces são exemplos de tipos
+
+Campos, métodos, propriedades e eventos são exemplos de membros.
+
+Quando os programas C# são compilados, eles são fisicamente empacotados em assemblies.
+
+Os assemblies geralmente têm a extensão de arquivo **.exe** ou **.dll**, dependendo se são aplicações ou bibliotecas.
+
+
+
+
+
+
+
