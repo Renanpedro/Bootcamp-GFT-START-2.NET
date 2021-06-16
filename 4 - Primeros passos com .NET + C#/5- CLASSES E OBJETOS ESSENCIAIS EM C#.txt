@@ -1,0 +1,76 @@
+### CLASSES E OBJETOS
+
+**Classes são os tipos mais fundamentais do C#**
+
+uma classe é uma estrutura de dados que combina estado(campos) e ações(métodos).
+
+
+
+**Objetos são instâncias de uma classe**
+
+As classes suportam herança e polimorfismo, mecanismos pelos quais as classes derivadas podem estender e especializar as classes bases.
+
+
+
+Instâncias de classes(objetos) são criadas usando o operador **NEW**, que aloca memória para uma nova instância, chama um construtor para inicializar a instância e retorna uma referência á instância.
+
+Ponto p1 = new Ponto(0,0);
+
+Ponto p2 = new Ponto(10,20);
+
+
+
+A memória ocupada por um objeto é recuperada automaticamente quando o objeto não está maios acessível. Não é necessário nem  possível desalocar explicitamente objetos em C#
+
+
+
+**MEMBROS**
+
+Os membros de uma classe podem ser estáticos ou membros de instância.
+
+Membros estáticos pertencem a classe e membros de instância pertecem ao objeto
+
+Constante, variáveis, métodos, propriedades, construtores...
+
+
+
+**ACESSIBILIDADE**
+
+Cada membro de uma classe tem uma acessibilidade associada, que controla as regiões do texto do programa que podem acessar o membro.
+
+Podem ser:
+
+- Public - Qualquer parte do código tenha acesso
+
+- Protected - Apenas por Herança para ter acesso
+
+- Internal - Ele só é acessado de dentro do Assembly que ele faz parte (o Cs.project)
+
+- Private - Acessado apenas dentro da mesma classe
+
+  
+
+- Static - significa que algo não pertence a instância, e sim a classe
+
+- Virtual - Permite que uma classe filha sobescreva ao metodo, em uma classe ela faz uma coisa e na outra faz algo diferente
+
+- override - Quando usado o virtual apra chamar tem que usar o override.
+
+
+
+**HERANÇA**
+
+Uma declaração de classe pode especificar uma classe base, herdando os membros public, internal e protected da classe base.
+
+Omitir uma especificação de classe base é o mesmo que derivar do tipo object.
+
+
+
+**MÉTODOS**
+
+Um método é um membro que implementa uma computação ou ação que pode ser executada por um objeto ou classe.
+
+Os métodos podem ter uma lista de parâmetros, que representam valores ou referências de variáveis passados para o método, e um tipo de retorno, que podem especificar o tipo do valor calculado e retornado pelo método.
+
+
+

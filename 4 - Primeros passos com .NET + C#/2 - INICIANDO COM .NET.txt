@@ -26,7 +26,7 @@ cd DigitalInnovationOne - Para acessar a pasta do projeto criado
 
 explorer . -  Abre diretamente na pasta que voce esta
 
-code . = Vai abrir o conteúdo da pasta
+code . = Vai abrir o projeto da pasta que você estiver
 
 dotnet restore = para restaurar/baixa os pacotes e dependências do projeto
 
