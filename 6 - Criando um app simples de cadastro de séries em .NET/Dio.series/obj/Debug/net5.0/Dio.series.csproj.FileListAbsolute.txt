@@ -1,0 +1,16 @@
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\bin\Debug\net5.0\Dio.series.exe
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\bin\Debug\net5.0\Dio.series.deps.json
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\bin\Debug\net5.0\Dio.series.runtimeconfig.json
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\bin\Debug\net5.0\Dio.series.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\bin\Debug\net5.0\Dio.series.dll
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\bin\Debug\net5.0\ref\Dio.series.dll
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\bin\Debug\net5.0\Dio.series.pdb
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.AssemblyInfo.cs
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.dll
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\ref\Dio.series.dll
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.pdb
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\6 - Criando um app simples de cadastro de séries em .NET\Dio.series\obj\Debug\net5.0\Dio.series.genruntimeconfig.cache

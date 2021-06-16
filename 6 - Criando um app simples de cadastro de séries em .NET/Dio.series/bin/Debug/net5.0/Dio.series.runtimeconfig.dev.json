@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\renan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\renan\\.nuget\\packages",
+      "G:\\VISUL STUDIO COMMUNITY 2019\\NuGetPackages"
+    ]
+  }
+}
