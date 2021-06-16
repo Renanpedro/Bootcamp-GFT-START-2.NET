@@ -1,0 +1,42 @@
+## **Tipos por valor**
+
+O C# tem duas grandes categorias de tipos: por valor e por referência. Os tipos por valos são gerenciados diretamente na memoria e têm as seguinte características principais:
+
+- Todos os tipos de dados numéricos
+- Não precisam ser inicializados com o operador NEW
+- A variável armazena o valor diretamente
+- A atribuição de uma variável a outra copia o conteúdo, criando efetivamente outra cópia da variável
+- Não podem conter o valor null.
+- Exemplo de variáveis desse tipo são: Integers, doubles, float e char
+
+**Inteiros**
+
+- Byte, sbyte, ushort, short, uint, int, ulong, long
+
+  
+
+**Double e Float**
+
+Os números de ponto flutuante são bastante convencionais, as operações de ponto flutuante não geram erros.
+
+**Caracteres**
+
+- Char
+
+
+
+## **Tipos por referência**
+
+Um tipo por referência armazena uma referência a seus dados. Os tipos de referência incluem o seguinte:
+
+- Duas variáveis poderem conter a referência a um mesmo objeto.
+- Operações em uma afetarem a outra.
+- Todas as matrizes, mesmo que seus elementos sejam de tipos de valor.
+- Exemplos de tipos por referência: String, classes e arrays.
+
+
+
+## **Tipo Ponteiro**
+
+um ponteiro ou apontador é um tipo de dado de cujo valor se refere diretamente a um outro valor alocado em outra área da memória, através de seu endereço.
+

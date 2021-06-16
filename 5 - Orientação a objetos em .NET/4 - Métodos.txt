@@ -1,0 +1,24 @@
+## **O que são métodos?**
+
+Determinam o comportamento dos objetos de uma classe e são capazes de controlar a estado da instância. São funções que realizam tarefas. Eles podem ou não retornar valores, e podem ou não receber parâmetros.
+
+O envio de mensagens (Chamada de métodos) pode altera o estado de um objeto. Esses métodos temos como difundidos os Getters, os setters e o Construct.
+
+
+
+## **Tipos de métodos**
+
+Os **GET** solicitam o acesso a informação de um determinado produto sem dar acesso diretamente a ele, colocando ali uma barreira de proteção para os dados.
+
+Os **SET** são modificadores, enviam o pedido de alteração de uma determinada informação de um objeto sem que se altere diretamente o mesmo.
+
+O **Construct** é o método construtor ele inicializa ou da forma á classe, é nele que indicamos os valores dos campos de uma classe. Esses valores podem ser internos (no código) ou externos (Passados por parâmetros)
+
+**Regras do construtor**:
+
+- Deve ter o mesmo nome da classe
+- Não tem tipo de retorno
+- é executado apenas um, apena suma vez, no momento da criação do objeto
+- Não pode ser chamado diretamente
+- Deve ser public
+

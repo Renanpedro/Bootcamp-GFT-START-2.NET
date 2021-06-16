@@ -1,0 +1,37 @@
+## O que são os paradigmas de programação?
+
+Paradigmas de programação são modos diferentes de montar a estrutura e execução de um código. Um paradigma de programação fornece e determina a visão que o programador possui sobre a estruturação e execução do programa.
+
+Cada paradigma surgiu de necessidades diferentes. Dado isso, cada um apresenta maiores vantagens sobre os outros dentro do desenvolvimento de determinado sistema, sendo assim, um paradigma pode oferecer técnicas apropriadas para uma aplicação específica. Entre eles, estão a programação orientada a objetos (POO) e a programação estruturada(PE).
+
+
+
+**PROGRAMÇÃO ESTRUTURADA X PROGRAMAÇÃO ORIENTADA A OBJETOS**
+
+A **PROGRAMÇÃO ESTRUTURADA** tem como principal característica sua interpretação linha por linha, em pequenos trechos de código, podendo eles não estar em uma ordem específica. Há três tipos de estruturas básicas para navegar pelo código: Sequência, seleções e repetições.
+
+- **SEQUÊNCIAS**: São os comandos a serem executados de cima pra baixo, linha a linha, do programa, de forma sequencial.
+- **SELEÇÕES:** Sequências que só devem ser executadas se uma condição for satisfeita(Exemplos: if, else, switch e comandos parecidos).
+- **REPETIÇÕES:** Sequências que devem ser executadas repetidamente até uma condição for satisfeita (FOR, WHILE, DO-WHILE...)
+
+
+
+**PROGRAMAÇÃO ORIENTADA A OBJETOS**
+
+O POO é baseado no conceito de "objetos", que podem conter dados na forma de campos (**atributos**) e códigos, na forma de procedimentos (**métodos**). uma característica é que um procedimento de objeto pode acessar, e geralmente modificar, os campos de dados do objeto com o qual eles estão associados e cada um, receber processar e enviar dados, podendo ser visto como uma "máquina independente".
+
+
+
+Para que uma linguagem possa ser considera orientada a objetos, ela precisa atender **os 4 pilares do POO:**
+
+- Abstração
+- Encapsulamento
+- Herança
+- Polimorfismo
+
+
+
+**POO EM .NET**
+
+A importância da POO é simples e direta tudo em .NET é objeto. Mesmo os tipos de dados mais simples são considerados objetos, já estes também contém métodos e propriedades. Implicitamente, todo e qualquer tipo ou objeto em .NET possui um ancestral comum.
+
