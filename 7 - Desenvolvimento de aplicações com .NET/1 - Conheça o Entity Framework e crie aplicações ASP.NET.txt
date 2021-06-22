@@ -1,0 +1,79 @@
+**O que é o Entity framework?**
+
+O entity framework permite que os dev .net trabalhem com um banco de dados usando objetos .NET, elimina a necessidade da maioria do código de acesso a dados que os desenvolvedores geralmente precisam gravar
+
+
+
+**Linhas de utilização**
+
+**database First**
+
+tem como objeitco ler o banco de dados e aplicar uma engenharia reversa carregando as classes que representaram as tabelas do banco.
+
+**model first** Permite gerar primeiro um modelo e a partir dele gerar nossa base dados, essa montagem de modelo é feita através do EDM designer utilizando os componentes que ele nos disponibiliza sendo as mais comuns "Entity" e "Association"
+
+**code first**
+
+mais em projetos orientados a objetos primeiro você cria as suas classes e entidades e deixa o entity framework a responsabilidade de criar o banco de dados, esses classes são conhecidas como classes POCO(Plan old clr objects) que são classes que utilizam apenas os tipos do .net framewok sendo independente de qualquer outro framewrok inclusive do "Entity", essas classes podem ser utilizadas por outros projetos que utilizem ou não o entity framwork.
+
+
+
+
+
+**Data annotations**
+
+​	é um recurso que permite que você acione atributos e métodos em nossas classes para alterar convenções padrão e personalizar alguns comportamentos.
+
+
+
+**principais atributos**
+
+Required: Campo origatorio
+
+RegularExoression: Valida o campo por expressão rtegular
+
+Display: Nome a ser mostrado em todas as interfaces de usuário.
+
+stringLength: Determina a quantidade máxima de caracteres quen podera ser informado
+
+MinLenght:  Determina a quantidade minima de caracteres quen podera ser informado
+
+displayformat: Formato a ser exibido nas interdfaces de usuário
+
+range: define a faixa de dados aceita pela propriedade.
+
+
+
+Migrations
+
+é um recurso que oferece uma maneira de atualizar de forma incremental o esquema de banco de dados para manter em sincronia com o modelo de classes do seu projeto preservando os dados existentes no banco de dadosw.
+
+Com o migration também é possivel realziar o downgrade caso você deseje voltar o seu banco de dados para a vesão anterior em que se encontrva além de manter um histórico de alterações.
+
+
+
+Antes do entity franework contar com suporte ao migrations existia apenas três estratégias para criação de banco de adso, quais sejam:
+
+- CreateDataBaseIfNotExist
+
+- DropCreateDatabaseAlways
+
+- DropCreateDatabaseIfModelChanges
+
+  
+
+CreateDataBaseIfNotExist
+
+cria o abnco de dados se ele não existir, se você estiver utilizando essa estratefgia e ralizar uma alteração no seun modelo de classes vc teria que remover o seu banco dae dados e cria-lo novamnte perdendp assim todos os seus dados.
+
+
+
+DropCreateDatabaseAlways
+
+Neste modelo o EF apafa o banco de dados e o recria sempre que o projeto e executado fazendo com que voce perca todos os seus dados ao inicá-lo.
+
+
+
+DropCreateDatabaseIfModelChanges
+
+Apaga o banco de dados e ira recriar apenas se realizarmos alteraçlões nmas nossas classes, isso também faz com que vc perca todos os seus dados, porém apenas quando realizar uma alteração do seu modelo.
