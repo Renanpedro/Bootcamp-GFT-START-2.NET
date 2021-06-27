@@ -49,7 +49,7 @@ namespace CursoTest
         {
             var service = new CategoriasController(_mockContext.Object);
             await service.PutCategoria(1, _categoria);
-            _mockContext.Verify(m => m.SaveChangesAsync(It.IsAny<CancellationToken>())),Times.Once());
+            _mockContext.Verify(m => m.SaveChangesAsync(It.IsAny<CancellationToken>()),Times.Once());
         }
 
     }
