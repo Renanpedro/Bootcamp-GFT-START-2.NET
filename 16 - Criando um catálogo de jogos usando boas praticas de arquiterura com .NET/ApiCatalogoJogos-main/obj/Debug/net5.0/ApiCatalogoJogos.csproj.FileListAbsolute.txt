@@ -49,3 +49,14 @@ C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos
 C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.dll
 C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ref\ApiCatalogoJogos.dll
 C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.pdb
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.RazorAssemblyInfo.cache
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.RazorAssemblyInfo.cs
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.dll
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ref\ApiCatalogoJogos.dll
+C:\Users\renan\Desktop\Estudo\Bootcamp GFT START #2 .NET\16 - Criando um catálogo de jogos\ApiCatalogoJogos-main\obj\Debug\net5.0\ApiCatalogoJogos.pdb
