@@ -1,0 +1,8 @@
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.RazorAssemblyInfo.cache
+C:\Users\renan\Downloads\ApiCatalogoJogos-main\obj\Debug\net5.0\ExemploApiCatalogoJogos.RazorAssemblyInfo.cs
